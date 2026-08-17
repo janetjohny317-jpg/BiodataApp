@@ -1,0 +1,3 @@
+const fullName = document.getElementById("fullName");
+
+console.log(fullName);
